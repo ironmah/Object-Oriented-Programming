@@ -1,0 +1,19 @@
+{
+    "variant": 12,
+    "figures": [
+
+    ],
+    "containers": [
+
+    ],
+    "finished_labs": {
+       "lab0.1:3/4": "lab0.1",
+       "lab0.2:3/4": "__in_progress__",
+       "lab1:3/4": "__in_progress__",
+       "lab2:3/4": "__in_progress__",
+       "lab3:3/4": "__in_progress__",
+       "lab4:3/4": "__in_progress__",
+       "lab5:3/4": "__in_progress__",
+       "lab6:3/4": "__in_progress__"
+    }
+  }
