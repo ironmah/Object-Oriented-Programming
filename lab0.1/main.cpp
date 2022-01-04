@@ -1,7 +1,7 @@
 ﻿// CMakeProject1.cpp : Defines the entry point for the application.
 //
 
-#include "CMakeProject1.h"
+#include "Long.h"
 #include <iostream>
 #include <Windows.h>
 #include <algorithm>
