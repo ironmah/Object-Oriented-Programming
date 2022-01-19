@@ -3,13 +3,13 @@
 using namespace std;
 
 Pentagon::Pentagon(istream &is){
-    cout << "Enter all data: " << endl;
+    cout << "Enter data: " << endl;
     cin >> a;
     cin >> b;
     cin >> c;
     cin >> d;
     cin >> e;
-    cout << "Pentagon created via istream" << endl;
+    cout << "Pentagon created " << endl;
 }
 
 void Pentagon::Print(){
