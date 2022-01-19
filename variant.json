@@ -1,7 +1,10 @@
 {
     "variant": 12,
-    "figures": [
-
+    "figures": 
+    [
+        "Trapezoid",
+        "Rhombus",
+        "Pentagon"
     ],
     "containers": [
 
