@@ -3,7 +3,6 @@
 
 #include "Long.h"
 #include <iostream>
-#include <Windows.h>
 #include <algorithm>
 using namespace std;
 class rectangle
